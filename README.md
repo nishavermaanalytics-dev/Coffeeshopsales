@@ -81,9 +81,6 @@ Protected elements include:
 
 ## 📸 Dashboard Preview
 
-(Add your dashboard screenshot here)
-
-Example:
 
 ```markdown
 ![Dashboard Preview](Project_Screenshot.png)
